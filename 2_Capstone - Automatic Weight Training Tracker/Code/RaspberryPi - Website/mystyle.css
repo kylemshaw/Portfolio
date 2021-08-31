@@ -1,0 +1,37 @@
+html {
+	height: 120%
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+	font-style: bold;
+	font-style: italic;
+}
+
+#toplinks {
+	font-size: 25px;
+	text-decoration: none;
+}
+
+#loginbody{
+	text-align: center;
+}
+
+body {
+	font-size: 20px
+    	background-color: #A9F5F2;
+	background: -webkit-linear-gradient(#A9F5F2, white); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#A9F5F2, white); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#A9F5F2, white); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#A9F5F2, white); /* Standard syntax */
+}
+
+p {
+    font-size: 20px;
+}
+table, th, td {
+	font-size: 20px;
+	border: 2px solid black;
+	padding: 20px;
+	border-collapse: collapse;
+}

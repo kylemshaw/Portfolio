@@ -1,0 +1,625 @@
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\Kyle\source\repos\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifySuppliers.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifySuppliers.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExpertsApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifySuppliers.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifySuppliers.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditSupplierProducts.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifySuppliers.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditSupplierProducts.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.exe
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll.config
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.deps.json
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.json
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.pdb
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\bin\Debug\netcoreapp3.1\TravelExpertsData.dll.config
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyPackage.resources
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifyProducts.resources
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmAddModifySuppliers.resources
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditPackageProducts.resources
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmEditSupplierProducts.resources
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.frmMain.resources
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.csproj.CopyComplete
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.pdb
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_DesktopApp\TravelExpertsGUI\obj\Debug\netcoreapp3.1\TravelExpertsGUI.genruntimeconfig.cache
