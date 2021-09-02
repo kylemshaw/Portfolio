@@ -9,7 +9,7 @@
 //		project in the Object Orientated Software Developement
 //		Certificate program at the Southern Albera Institute
 //		of Technology (SAIT). I have since cleaned it up and have 
-//		written 95% +  of the code
+//		written ~90% of the code
 //		
 //		The app allows travel agents to make changes to three
 //		different but related tables stored in a database 
@@ -40,5 +40,6 @@
 Improvements To Do List
 - Fix missing try/catch error handling in frmMain
 - Clean up forms and make consistent buttons, text formatting
+- Review DTOs
 
 	
