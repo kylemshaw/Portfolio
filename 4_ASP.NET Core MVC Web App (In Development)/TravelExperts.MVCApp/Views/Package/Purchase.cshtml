@@ -1,0 +1,73 @@
+﻿@model TravelExperts.MVCApp.Models.PackageViewModel
+
+@{
+    ViewData["Title"] = "Purchase";
+}
+
+<h1>Purchase</h1>
+
+<div>
+    <h4>PackageViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PackagePicture)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PackagePicture)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PkgName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PkgName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PkgStartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PkgStartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PkgEndDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PkgEndDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PkgDesc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PkgDesc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PkgBasePrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PkgBasePrice)
+        </dd>
+    </dl>
+</div>
+
+<div class="row">
+    @if (User.Identity.IsAuthenticated)
+    {
+       
+        
+            <a class="" asp-controller="Package" asp-action="Buy" asp-route-packId="@Model.PackageId">Buy </a>
+       
+    }
+    else
+    {
+        <p>
+            <a asp-controller="Account" asp-action="Login">Login</a>
+            or 
+            <a asp-controller="Account" asp-action="Create">Register</a>
+            to purchase.
+        </p>
+    }
+</div>
+
+<div class="row">
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<TravelExperts.MVCApp.Models.PackageViewModel>
+
+@{
+    ViewData["Title"] = "Purchases";
+}
+
+@{
+    decimal Sum = 0;
+    string basePrice;
+    foreach (var item in Model)
+    {
+        basePrice = item.PkgBasePrice.Substring(1);
+        Sum += Convert.ToDecimal(basePrice);
+    }
+
+}
+
+<h1>Ready to Depart!</h1>
+<h4>Please review your selections below.</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PkgName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PkgStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PkgEndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PkgDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PkgBasePrice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PkgName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PkgStartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PkgEndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PkgDesc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PkgBasePrice)
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <th class="text-right">Total:</th>
+            <td>$@Sum</td>
+        </tr>
+        <tr>
+            
+            <td class="border-0" colspan="5">
+                <a class="btn btn-primary text-light border float-right mr-3" role="button" 
+                   asp-action="Checkout">Purchase</a>
+            </td>
+            
+        </tr>
+    </tbody>
+</table>
+
+
+
+<div class="row mt-4">
+    
+</div>
+

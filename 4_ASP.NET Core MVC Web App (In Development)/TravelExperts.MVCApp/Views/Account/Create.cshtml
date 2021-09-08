@@ -1,0 +1,113 @@
+﻿@model TravelExperts.Data.Domain.Authentication
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Register</h1>
+
+<h5>Please enter your information below:</h5>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" onsubmit="return matchPassword();">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Username" class="control-label">Username</label>
+                    <input asp-for="Username" class="form-control" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label" id="password">Password</label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ConfirmPassword" class="control-label" id="password">Confirm Password</label>
+                    <input asp-for="ConfirmPassword" class="form-control" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                @*<div class="form-group">
+                    <label class="control-label" id="confirmpwd">Confirm Password</label>
+                    <input class="form-control" />
+                    <span class="text-danger"></span>
+                </div>*@
+
+                <div class="form-group">
+                    <label asp-for="Customer.CustFirstName" class="control-label">First Name</label>
+                    <input asp-for="Customer.CustFirstName" class="form-control" />
+                    <span asp-validation-for="Customer.CustFirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustLastName" class="control-label">Last Name</label>
+                    <input asp-for="Customer.CustLastName" class="form-control" />
+                    <span asp-validation-for="Customer.CustLastName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustAddress" class="control-label">Address</label>
+                    <input asp-for="Customer.CustAddress" class="form-control" />
+                    <span asp-validation-for="Customer.CustAddress" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustCity" class="control-label">City</label>
+                    <input asp-for="Customer.CustCity" class="form-control" />
+                    <span asp-validation-for="Customer.CustCity" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustProv" class="control-label">Province</label>
+                    <input asp-for="Customer.CustProv" class="form-control" />
+                    <span asp-validation-for="Customer.CustProv" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustPostal" class="control-label">Postal Code</label>
+                    <input asp-for="Customer.CustPostal" class="form-control" />
+                    <span asp-validation-for="Customer.CustPostal" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustCountry" class="control-label">Country</label>
+                    <input asp-for="Customer.CustCountry" class="form-control" />
+                    <span asp-validation-for="Customer.CustCountry" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustHomePhone" class="control-label">Home Phone</label>
+                    <input asp-for="Customer.CustHomePhone" class="form-control" />
+                    <span asp-validation-for="Customer.CustHomePhone" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustBusPhone" class="control-label">Business Phone</label>
+                    <input asp-for="Customer.CustBusPhone" class="form-control" />
+                    <span asp-validation-for="Customer.CustBusPhone" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Customer.CustEmail" class="control-label">Email</label>
+                    <input asp-for="Customer.CustEmail" class="form-control" />
+                    <span asp-validation-for="Customer.CustEmail" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+@*<script type="text/javascript">
+    function matchPassword()
+    {
+        var valid = true;
+        var pw1 = document.getElementById("password");
+        var pw2 = document.getElementById("confirmpwd");
+        if (pw1 != pw2)
+        {
+            valid = false;
+            alert("passwords do not match, please re-type passwords");
+        }
+        
+        return valid;
+
+    }
+</script>*@
+

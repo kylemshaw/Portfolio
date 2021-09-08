@@ -1,0 +1,32 @@
+﻿@model IEnumerable<TravelExperts.MVCApp.Models.PackageViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Select a vacation package:</h1>
+<div class="container">
+    <div class="mt-5">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 mt-5 ">
+            @foreach (var item in Model)
+            {
+                
+                <div class="col-md-4 my-3 packageCard">
+                    <a class="card h-100 btn shadow-sm" asp-controller="Package" asp-action="Selected" asp-route-id="@item.PackageId">
+                        <img src="~/images/@Html.DisplayFor(modelItem => item.PackagePicture)" class="card-img pt-1" alt="click to buy">
+                        <div class="card-body">
+                            <h5 class="card-title">@Html.DisplayFor(modelItem => item.PkgName)</h5>
+                            <p>
+                                Price: <span id="price">@Html.DisplayFor(modelItem => item.PkgBasePrice)</span><br />
+                                Departs: <span id="startDate"> @Html.DisplayFor(modelItem => item.PkgStartDate) </span> <br />
+                                Returns: <span id="endDate">@Html.DisplayFor(modelItem => item.PkgEndDate)</span>
+                            </p>
+                            <p class="card-text">@Html.DisplayFor(modelItem => item.PkgDesc)</p>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,76 @@
+﻿@model TravelExperts.MVCApp.Models.PackageViewModel
+
+@{
+    ViewData["Title"] = "Selected Package";
+}
+
+
+<div>
+    
+    <h5> You have selected:</h5>
+
+    <div class="row">
+
+        <div class="card selectedCard">
+            <div class="card-header selectedHeading"> @Html.DisplayFor(model => model.PkgName)</div>
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img class="card-img-top rounded p-3" src="~/images/@Html.DisplayFor(model => model.PackagePicture)" alt="Card image cap">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <table class="table">
+                            <tr class="border-0">
+                                <th class="border-0">@Html.DisplayNameFor(model => model.PkgBasePrice)</th>
+                                <td class="border-0">@Html.DisplayFor(model => model.PkgBasePrice)</td>
+                            </tr>
+                            <tr class="border-0">
+                                <th class="border-0">@Html.DisplayNameFor(model => model.PkgStartDate)</th>
+                                <td class="border-0">@Html.DisplayFor(model => model.PkgStartDate)</td>
+                            </tr>
+                            <tr class="border-0">
+                                <th class="border-0">@Html.DisplayNameFor(model => model.PkgEndDate)</th>
+                                <td class="border-0">@Html.DisplayFor(model => model.PkgEndDate)</td>
+                            </tr>
+                            <tr class="border-0">
+                                <th class="border-0">@Html.DisplayNameFor(model => model.PkgDesc)</th>
+                                <td class="border-0">@Html.DisplayFor(model => model.PkgDesc)</td>
+                            </tr>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="row mt-4">
+            <a class="btn btn-primary border w-25 mx-auto" role="button" asp-controller="Package"
+               asp-action="Buy" asp-route-packId="@Model.PackageId">Add to Cart </a>
+        </div>
+    }
+    else
+    {
+        <div class="row mt-4">
+            <a class="btn btn-secondary border w-25 mx-auto" role="button">Add to Cart </a>
+        </div>
+        <div class="row mt-4">
+            <p class="mx-auto">
+                <a asp-controller="Account" asp-action="Login" asp-route-returnUrl="@Context.Request.Path">Login</a>
+                or
+                <a asp-controller="Account" asp-action="Create" asp-route-regReturnUrl="@Context.Request.Path">Register</a>
+                to purchase.
+            </p>
+        </div>
+    }
+
+
+
+        

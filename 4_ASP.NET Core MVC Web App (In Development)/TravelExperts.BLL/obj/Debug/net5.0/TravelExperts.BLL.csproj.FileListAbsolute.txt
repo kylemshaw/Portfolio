@@ -1,0 +1,120 @@
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\Term2_TravelExperts_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\aarma\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\micha\OneDrive\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Repositories\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\dillo\Documents\GitHub\PROJ207_Term2\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\test\PROJ207_Term2-Final From GitHub\TravelExperts_WebApp_Fixed\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
