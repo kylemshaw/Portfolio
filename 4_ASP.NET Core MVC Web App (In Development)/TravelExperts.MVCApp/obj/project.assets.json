@@ -8695,11 +8695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.MVCApp\\TravelExperts.MVCApp.csproj",
+      "projectUniqueName": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.MVCApp\\TravelExperts.MVCApp.csproj",
       "projectName": "TravelExperts.MVCApp",
-      "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.MVCApp\\TravelExperts.MVCApp.csproj",
+      "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.MVCApp\\TravelExperts.MVCApp.csproj",
       "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.MVCApp\\obj\\",
+      "outputPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.MVCApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8716,11 +8716,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.BLL\\TravelExperts.BLL.csproj": {
-              "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.BLL\\TravelExperts.BLL.csproj"
+            "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.BLL\\TravelExperts.BLL.csproj": {
+              "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.BLL\\TravelExperts.BLL.csproj"
             },
-            "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.Data\\TravelExperts.Data.csproj": {
-              "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.Data\\TravelExperts.Data.csproj"
+            "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.Data\\TravelExperts.Data.csproj": {
+              "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.Data\\TravelExperts.Data.csproj"
             }
           }
         }

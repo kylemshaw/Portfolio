@@ -39,7 +39,13 @@
 		
 Improvements To Do List
 - Fix missing try/catch error handling in frmMain
+  (keep try/catch here or can I clean up frmMain code and move them 
+	to manager class and propagate errors through to the presentation
+	layer somehow?)
 - Clean up forms and make consistent buttons, text formatting
-- Review DTOs
+- Review DTOs (do they add anything?)
+- Look into dpendancy injection to allow the creation of mock database
+  to test Manager classes
+- add unit testing
 
 	

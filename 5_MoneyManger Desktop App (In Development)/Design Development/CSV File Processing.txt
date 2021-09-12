@@ -1,0 +1,13 @@
+Visa Transaction Process Algorithm
+
+1.Open file and ignore the first line of CSV file (headers)
+2. Go to next line and add transaction to database by parsing through attributes. Each database record will have the attributes Account Type, Transaction Date, Description, and CAD$
+3.Parse by reading in character by character until you hit a comma. Count commas to know which attribute you are currently on. If it is an attribute that needs to be saved store it in a variable of appropriate type then move on to the next attribute. If the attribute is not one that will be used don't save it, cycle through to the next attribute.
+4. continue reading in attributes until you hit an end line character. this signals the end of a record.
+4.5 Add an extra attribute for Debit/Receipt to differentiate payments to the account and debits from the account
+5. Use variables that store the required attributes to submit the record to the database. Before submitting make sure that an identical record does not already exist. If it does do not overwrite it and move on.
+6. Clear all variables after record has been stored in database
+7. move on to the next line in the CSV and repeat until you hit the end of file character
+8. if you hit the end of file then processing is complete and all records have been added to the database so close the file and end program.
+
+Predict tansaction category by creating second table and saving each new description and user defined category. Each time you import look at description and compare to prediction table to fill categories. Add weight column to prediction table that is updated when the user has reviewd and submitted formatted CSV data. Everytime a description is submitted matching an entry already in the prediction table the weight is incremented. This way a description that is the most common can be automtaically filled when loading csv file for user review  

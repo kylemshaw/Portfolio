@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tp5e/A3cxGRDWfu36xc0+RWnP4cmVEfRqbVxyoccCMHNzXOZjjHyjLE/b/orDoSX8STz5J1ZgTQQFvo4vqQv9g==",
+  "dgSpecHash": "w/soPH9/afZfjFvUv9Eb0nvkhs4oj/BC/Ymo+/CDYQTJjANPQdJzUF66U1g6EaJ5Cs3lYMyrWXnEGrhIRVTTCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Backup & Staging\\4_ASP.NET Core MVC Web App\\TravelExperts.MVCApp\\TravelExperts.MVCApp.csproj",
+  "projectFilePath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\4_ASP.NET Core MVC Web App (In Development)\\TravelExperts.MVCApp\\TravelExperts.MVCApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kyle\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Kyle\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
