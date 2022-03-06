@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="apDialog" minHeight="645.0" minWidth="549.0" prefHeight="691.0" prefWidth="597.0" stylesheets="@Snow_style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.te.dbmanager.gui.PackageDetailController">
+   <children>
+      <HBox alignment="CENTER" layoutX="61.0" layoutY="64.0" prefHeight="285.0" prefWidth="472.0">
+         <children>
+            <VBox prefHeight="287.0" prefWidth="141.0">
+               <children>
+                  <Label text="Package Id:">
+                     <VBox.margin>
+                        <Insets top="12.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Package Name:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Start Date:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="End Date:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Description">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Base Price:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Commission:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox alignment="BOTTOM_RIGHT" prefHeight="287.0" prefWidth="47.0">
+               <children>
+                  <Label text="\$">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets bottom="20.0" right="2.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="\$">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets bottom="10.0" right="2.0" />
+                     </VBox.margin>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox>
+               <children>
+                  <TextField fx:id="txtPackageId" disable="true" editable="false" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="txtPkgName" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <DatePicker fx:id="dpPkgStartDate" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </DatePicker>
+                  <DatePicker fx:id="dpPkgEndDate" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </DatePicker>
+                  <TextField fx:id="txtPkgDesc" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="txtPkgBasePrice" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="txtPkgAgencyCommission" maxHeight="25.0" prefHeight="22.0" prefWidth="280.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <Label fx:id="lblError" layoutX="252.0" layoutY="364.0" textFill="#fa0606" />
+      <Label layoutX="61.0" layoutY="385.0" text="Products / Services:">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <ListView fx:id="lvSuppliers" disable="true" layoutX="61.0" layoutY="417.0" prefHeight="171.0" prefWidth="319.0" />
+      <Button fx:id="btnAddSupplier" layoutX="408.0" layoutY="419.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="124.0" text="Add Service">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnRemoveSupplier" disable="true" layoutX="408.0" layoutY="483.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="124.0" text="Remove Service">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnSave" layoutX="183.0" layoutY="626.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="68.0" text="Save">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnCancel" layoutX="344.0" layoutY="626.0" mnemonicParsing="false" prefWidth="68.0" text="Cancel">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <HBox fx:id="hbTitle" alignment="CENTER_RIGHT" maxHeight="-Infinity" minHeight="-Infinity" minWidth="597.0" prefHeight="35.0" prefWidth="550.0" style="-fx-background-color: #080a2a;">
+         <children>
+            <ImageView fitHeight="27.0" fitWidth="37.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/logoPartial.png" />
+               </image>
+               <HBox.margin>
+                  <Insets left="5.0" top="2.0" />
+               </HBox.margin>
+            </ImageView>
+            <TextField fx:id="tfTitle" editable="false" focusTraversable="false" mouseTransparent="true" prefWidth="1010.0" style="-fx-background-color: transparent; -fx-text-fill: #939393;" text="Travel Experts DB Explorer">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </TextField>
+            <Circle fx:id="btnMinimize" fill="#f2c36d" radius="9.0" stroke="BLACK" strokeType="INSIDE">
+               <HBox.margin>
+                  <Insets right="8.0" />
+               </HBox.margin>
+               <effect>
+                  <InnerShadow />
+               </effect>
+            </Circle>
+            <Circle fx:id="btnClose" fill="#cd2b1c" radius="9.0" stroke="BLACK" strokeType="INSIDE">
+               <HBox.margin>
+                  <Insets right="10.0" />
+               </HBox.margin>
+               <effect>
+                  <InnerShadow />
+               </effect>
+            </Circle>
+         </children>
+      </HBox>
+   </children>
+   <effect>
+      <DropShadow />
+   </effect>
+</AnchorPane>

@@ -1,0 +1,50 @@
+/*
+//----------------------------------------------------------------------------
+//     PROJ 207 Threaded Project #3
+//     Group: 5
+//     Class: OOSD May 21
+// 	   Author: Snow Tran (see description)
+//     Description: CSS styling for the main form, with inspiration from
+//                  https://www.youtube.com/watch?v=8lR9scOLE7U
+//----------------------------------------------------------------------------
+*/
+
+.button {
+    -fx-background-color: #080a2a;
+    -fx-text-fill: #e7e5e5;
+}
+
+.scroll-pane {
+    -fx-background-color: #02030A;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical {
+    -fx-background-color: transparent;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+VBox .button, VBox .label{
+    -fx-font-size: 14px;
+}
+
+AnchorPane {
+    -fx-effect: dropshadow(three-pass-box, #041051, 20, 0.33, 0, 0);
+}
+
+/* textfield on title bar*/
+#tfTitle {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+

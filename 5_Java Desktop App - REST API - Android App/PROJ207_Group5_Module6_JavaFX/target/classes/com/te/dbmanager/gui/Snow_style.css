@@ -1,0 +1,204 @@
+/*
+//----------------------------------------------------------------------------
+//     PROJ 207 Threaded Project #3
+//     Group: 5
+//     Class: OOSD May 21
+// 	   Author: Snow Tran
+//     Description: CSS styling for table views
+//----------------------------------------------------------------------------
+*/
+
+  .button {
+    -fx-background-color: linear-gradient(#0054d7, #030f44);
+    -fx-font-weight: bold;
+    -fx-text-fill: #c4c4c4;
+}
+
+VBox {
+    -fx-background-color: #5487de;
+    -fx-font-size: 14px;
+}
+
+.table-view {
+    -fx-background-color: transparent;
+    -fx-background-color: #5487de;
+}
+
+.table-view .column-header-background .filler {
+    -fx-background-color: transparent;
+
+}
+
+.table-view .corner {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: linear-gradient(#091963, #0329d0);
+    -fx-background-radius: 7px 7px 0px 0px;
+    -fx-background-insets: 0 11px 0 0;
+    -fx-padding: 0 0 5px 0;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell {
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+
+.table-row-cell:filled .table-cell {
+    -fx-text-fill: black;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #c4c4c4;
+    -fx-font-weight: bold;
+}
+
+.table-row-cell:hover {
+    -fx-background-color: rgba(147, 213, 249, 0.07);
+    -fx-font-weight: bold;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: rgba(147, 222, 249, 0.07);
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:even {
+    -fx-background-color: #1dbbdd11;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .virtual-flow .scroll-bar .increment-button,
+.table-view .virtual-flow .scroll-bar .decrement-button {
+    -fx-opacity: 0;
+    -fx-padding: 2;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical .thumb {
+    -fx-background-color: linear-gradient(#5a96f3, #3b5bee);
+
+}
+
+
+.table-view .virtual-flow .scroll-bar:horizontal .thumb {
+    -fx-background-color: linear-gradient(#5a96f3, #3b5bee);
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #1e6df3;
+    -fx-background-radius: 15px;
+    -fx-font-weight: bold;
+}
+
+AnchorPane {
+    -fx-background-color: #5487de;
+    -fx-font-size: 14px;
+}
+
+/* package-detail-view.fxml */
+AnchorPane > .text-field, .label {
+    -fx-font-size: 15px;
+}
+
+/* booking-detail-view.fxml*/
+AnchorPane VBox HBox VBox .label, .date-picker, .text-field, .combo-box {
+    -fx-font-size: 15px;
+}
+
+/* customer-detail-view.fxml */
+AnchorPane HBox VBox .label {
+    -fx-font-size: 15px;
+}
+
+/* booking-report-view.fxml */
+VBox HBox .label {
+    -fx-font-size: 15px;
+}
+
+/* dashboard-view.fxml */
+#lblDate {
+    -fx-font-size: 68px;
+}
+.cityName {
+    -fx-font-size: 32px;
+}
+.cityTime {
+    -fx-font-size: 24px;
+}
+#lblNumCustomers, #lblNumBookings, #lblYtdCommission {
+    -fx-font-size: 24px;
+}
+#lblTotalCustomers {
+    -fx-text-fill: #5fb45f;
+}
+#lblTotalBookings {
+    -fx-text-fill: #cd4abc;
+}
+#lblTotalCommission {
+    -fx-text-fill: #2ca2c6;
+}
+
+#lblTotalBookings, #lblTotalCustomers, #lblTotalCommission {
+    -fx-font-size: 28px;
+
+}
+
+/* <table-view>-view.fxml*/
+/*
+#tableBookings .table-column {
+    -fx-alignment: CENTER;
+}
+*/
+
+/*
+#tvCustomers .table-column {
+    -fx-alignment: CENTER;
+}*/
+.colCenter{
+    -fx-alignment: CENTER;
+}
+.colRight{
+    -fx-alignment: CENTER-RIGHT;
+}
+
+#lblTravelExperts, #lblDialogTitle, #lblBookingSummaryReport, #lblTitle {
+    -fx-font-size: 20px;
+}
+
+#lblBookingSummaryReport, #lblNoBookings, #lblBookingAmount, #lblBookingPercent, #lblTravelExperts, #lblAgentBookingDetail {
+    -fx-font-weight: bold;
+}
+
+#dashboardVbox1, #dashboardVbox2, #dashboardVbox3 {
+    -fx-background-color: linear-gradient(to top left, #080a2a, #0c407b);
+}
+
+/* textfield on title bar*/
+#tfTitle {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+
+AnchorPane {
+    -fx-border-color: linear-gradient(to right, #041051, black),
+    linear-gradient(to top, #041051, #3b5baa),
+    linear-gradient(to left, #041051, #3b5baa);
+    -fx-border-width: 2px 4px 4px 2px;
+}
+

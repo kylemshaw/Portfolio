@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="TOP_CENTER" stylesheets="@Snow_style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.te.dbmanager.gui.DashboardController">
+   <children>
+      <VBox alignment="CENTER" prefHeight="315.0" prefWidth="915.0">
+         <children>
+            <Label fx:id="lblDate" text="Tuesday Oct 19, 2021">
+               <font>
+                  <Font size="68.0" />
+               </font>
+            </Label>
+            <HBox fx:id="hbTimes" alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="150.0" styleClass="vbCityTime">
+                     <children>
+                        <Label fx:id="lblTime1" styleClass="cityName" text="Honolulu" textFill="#05071f">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblHonolulu" styleClass="cityTime" text="5:29:00 pm" textFill="#05071f" />
+                     </children>
+                     <HBox.margin>
+                        <Insets right="30.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="150.0" styleClass="vbCityTime">
+                     <children>
+                        <Label fx:id="lblTime11" styleClass="cityName" text="Calgary" textFill="#05071f" />
+                        <Label fx:id="lblTime" styleClass="cityTime" text="5:29:00 pm" textFill="#05071f" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="15.0" right="15.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="150.0" styleClass="vbCityTime">
+                     <children>
+                        <Label fx:id="lblTime13" styleClass="cityName" text="Paris" textFill="#05071f">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblParis" styleClass="cityTime" text="5:29:00 pm" textFill="#05071f" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="30.0" />
+                     </HBox.margin>
+                  </VBox>
+               </children>
+               <VBox.margin>
+                  <Insets top="40.0" />
+               </VBox.margin>
+            </HBox>
+         </children>
+      </VBox>
+      <HBox prefHeight="10.0" />
+      <HBox alignment="CENTER" prefHeight="300.0" prefWidth="915.0">
+         <children>
+            <VBox fx:id="dashboardVbox1" alignment="CENTER" prefWidth="305.0" style="-fx-background-radius: 10 10 10 10;">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <children>
+                  <Label fx:id="lblTotalCustomers" text="Total Customers" textFill="#e7e5e5">
+                     <font>
+                        <Font size="28.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </Label>
+                  <ImageView fitHeight="46.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/icons8_Person_32px.png" />
+                     </image>
+                     <VBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </VBox.margin>
+                  </ImageView>
+                  <Label fx:id="lblNumCustomers" text="23" textFill="#c47deb">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Label>
+               </children>
+               <effect>
+                  <DropShadow blurType="TWO_PASS_BOX" height="33.44" offsetX="10.0" offsetY="10.0" radius="15.36" width="30.0">
+                     <color>
+                        <Color red="0.04410000145435333" green="0.10268999636173248" blue="0.6299999952316284" opacity="0.5043478012084961" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </VBox>
+            <VBox fx:id="dashboardVbox2" alignment="CENTER" prefWidth="305.0" style="-fx-background-radius: 10 10 10 10;">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <children>
+                  <Label fx:id="lblTotalBookings" text="Total Bookings" textFill="#e7e5e5">
+                     <font>
+                        <Font size="28.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </Label>
+                  <ImageView fitHeight="46.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/icons8_Open_Envelope_32px.png" />
+                     </image>
+                     <VBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </VBox.margin>
+                  </ImageView>
+                  <Label fx:id="lblNumBookings" text="10" textFill="#eed112">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Label>
+               </children>
+               <effect>
+                  <DropShadow blurType="TWO_PASS_BOX" height="33.44" offsetX="10.0" offsetY="10.0" radius="15.36" width="30.0">
+                     <color>
+                        <Color red="0.04410000145435333" green="0.10268999636173248" blue="0.6299999952316284" opacity="0.5043478012084961" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </VBox>
+            <VBox fx:id="dashboardVbox3" alignment="CENTER" prefWidth="305.0" style="-fx-background-radius: 10 10 10 10;">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <children>
+                  <Label fx:id="lblTotalCommission" text="YTD Commission" textFill="#e7e5e5">
+                     <font>
+                        <Font size="28.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </Label>
+                  <ImageView fitHeight="46.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/package.png" />
+                     </image>
+                     <VBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </VBox.margin>
+                  </ImageView>
+                  <Label fx:id="lblYtdCommission" text="\$5500.00" textFill="#32d38d">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Label>
+               </children>
+               <effect>
+                  <DropShadow blurType="TWO_PASS_BOX" height="33.44" offsetX="10.0" offsetY="10.0" radius="15.36" width="30.0">
+                     <color>
+                        <Color red="0.04410000145435333" green="0.10268999636173248" blue="0.6299999952316284" opacity="0.5043478012084961" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+</VBox>

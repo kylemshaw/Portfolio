@@ -1,0 +1,6 @@
+com\example\travelexpertsrest\TravelExpertsApplication.class
+com\example\travelexpertsrest\ConnectionResource.class
+com\example\travelexpertsrest\BookingResource.class
+com\example\travelexpertsrest\CustomerResource.class
+com\example\travelexpertsrest\AgentResource.class
+com\example\travelexpertsrest\PackageResource.class

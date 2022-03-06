@@ -7506,11 +7506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Database Management Desktop App\\TravelExperts_W4_DesktopApp\\TravelExpertsGUI\\TravelExpertsGUI.csproj",
+      "projectUniqueName": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\3_ Database Management Windows Forms App\\TravelExperts_W4_DesktopApp\\TravelExpertsGUI\\TravelExpertsGUI.csproj",
       "projectName": "TravelExpertsGUI",
-      "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Database Management Desktop App\\TravelExperts_W4_DesktopApp\\TravelExpertsGUI\\TravelExpertsGUI.csproj",
+      "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\3_ Database Management Windows Forms App\\TravelExperts_W4_DesktopApp\\TravelExpertsGUI\\TravelExpertsGUI.csproj",
       "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Database Management Desktop App\\TravelExperts_W4_DesktopApp\\TravelExpertsGUI\\obj\\",
+      "outputPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\3_ Database Management Windows Forms App\\TravelExperts_W4_DesktopApp\\TravelExpertsGUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7527,8 +7527,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Database Management Desktop App\\TravelExperts_W4_DesktopApp\\TravelExpertsData\\TravelExpertsData.csproj": {
-              "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Database Management Desktop App\\TravelExperts_W4_DesktopApp\\TravelExpertsData\\TravelExpertsData.csproj"
+            "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\3_ Database Management Windows Forms App\\TravelExperts_W4_DesktopApp\\TravelExpertsData\\TravelExpertsData.csproj": {
+              "projectPath": "C:\\Users\\Kyle\\source\\repos\\_GitHub Portfolio\\Portfolio\\3_ Database Management Windows Forms App\\TravelExperts_W4_DesktopApp\\TravelExpertsData\\TravelExpertsData.csproj"
             }
           }
         }

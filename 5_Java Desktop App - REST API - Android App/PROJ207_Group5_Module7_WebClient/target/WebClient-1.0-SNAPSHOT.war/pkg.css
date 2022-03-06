@@ -1,0 +1,38 @@
+body{
+    background-image: url("pkg.jpg");
+    align-content: center;
+    vertical-align: center;
+    padding: 20px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.dollars::before{
+    content: "$";
+}
+
+#box{
+    align-content: center;
+    border: blue;
+    border-width: thick;
+    border-style: groove;
+
+}
+lable{
+
+    padding: 100px;
+    margin-right: 500px;
+}
+input{
+    width: 600px;
+    padding: 20px;
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,213 @@
+<!-- PROJ 207 Threaded Project #3  -->
+<!-- Group: 5  -->
+<!-- Class: OOSD May 21  -->
+<!-- Author: Xiaoyan (Kathy) Deng  -->
+<!-- Description: web client for packages table -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Package</title>
+    <script src="jquery.js"></script>
+    <link rel="stylesheet" href="pkg.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+    <script>
+        //<!-- show message after database operation -->
+        function openMsg() {
+            $("#myMsg").attr("style", "display: block");
+        }
+
+        //<!-- enable the form after close message box  -->
+        function closeMsg() {
+            $("#myMsg").attr("style", "display: none");
+            window.location.reload(false);
+            enableAll();
+        }
+        //<!-- reset form when clear button is clicked  -->
+        function reSet(){
+            $("#packageselect").val("none");
+            $("#PackageId").val("");
+            $("#PkgName").val("");
+            $("#PkgStartDate").val("");
+            $("#PkgEndDate").val("");
+            $("#PkgDesc").val("");
+            $("#PkgBasePrice").val("");
+            $("#PkgAgencyCommission").val("");
+            $("#btnAdd").removeAttr("disabled");
+            $("#btnUpdate").attr("disabled", "disabled");
+            $("#btnDelete").attr("disabled", "disabled");
+        }
+
+        //<!-- disable the whole form while message box is shown  -->
+        function disableAll(){
+            $("#packageselect").attr("disabled", "disabled");
+            $("#PackageId").attr("disabled", "disabled");
+            $("#PkgName").attr("disabled", "disabled");
+            $("#PkgStartDate").attr("disabled", "disabled");
+            $("#PkgEndDate").attr("disabled", "disabled");
+            $("#PkgDesc").attr("disabled", "disabled");
+            $("#PkgBasePrice").attr("disabled", "disabled");
+            $("#PkgAgencyCommission").attr("disabled", "disabled");
+            $("#btnAdd").attr("disabled", "disabled");
+            $("#btnUpdate").attr("disabled", "disabled");
+            $("#btnDelete").attr("disabled", "disabled");
+            $("#btnClear").attr("disabled", "disabled");
+        }
+
+        //<!-- enable the form while message box is closed  -->
+        function enableAll(){
+                $("#packageselect").removeAttr("disabled");
+                $("#PkgName").removeAttr("disabled");
+                $("#PkgStartDate").removeAttr("disabled");
+                $("#PkgEndDate").removeAttr("disabled");
+                $("#PkgDesc").removeAttr("disabled");
+                $("#PkgBasePrice").removeAttr("disabled");
+                $("#PkgAgencyCommission").removeAttr("disabled");
+                $("#btnAdd").removeAttr("disabled");
+                $("#btnClear").removeAttr("disabled");
+        }
+
+        //<!-- get the package from database and show when chosen from dropdown list -->
+        function getPackage(pkgid){
+            if (pkgid!="none"){
+                $("#btnAdd").attr("disabled", "disabled");
+                $("#btnUpdate").removeAttr("disabled");
+                $("#btnDelete").removeAttr("disabled");
+
+                $.get("http://localhost:8080/TravelExpertsREST-1.0-SNAPSHOT/api/package/getpackage/"+pkgid,
+                    function (data){
+                        $("#PackageId").val(data.PackageId);
+                        $("#PkgName").val(data.PkgName);
+                        var startDate = data.PkgStartDate.substr(0, 10);
+                        $("#PkgStartDate").val(startDate);
+                        var endDate = data.PkgEndDate.substr(0, 10);
+                        $("#PkgEndDate").val(endDate);
+                        $("#PkgDesc").val(data.PkgDesc);
+                        $("#PkgBasePrice").val(parseInt(data.PkgBasePrice));
+                        $("#PkgAgencyCommission").val(parseInt(data.PkgAgencyCommission));
+                    }
+                );
+            }else{
+                reSet();
+            }
+        }
+
+        //<!-- update package into database  -->
+        function postPackage(){
+            var data = '{ "PackageId": ' +$("#PackageId").val()+
+                ', "PkgName": "' +$("#PkgName").val()+
+                '", "PkgStartDate": "' +$("#PkgStartDate").val()+' 00:00:00.0'+
+                '", "PkgEndDate": "' +$("#PkgEndDate").val()+' 00:00:00.0'+
+                '", "PkgDesc": "' +$("#PkgDesc").val()+
+                '", "PkgBasePrice": ' +$("#PkgBasePrice").val()+
+                ', "PkgAgencyCommission": ' +$("#PkgAgencyCommission").val()+' }';
+            $.ajax({
+                url:"http://localhost:8080/TravelExpertsREST-1.0-SNAPSHOT/api/package/postpackage",
+                method:"POST",
+                data:data,
+                contentType:"application/json",
+                cache:false,
+                dataType:"json",
+                success: function (result){
+                    $("#msg").html(result.message);
+                    openMsg();
+                    disableAll();
+                }
+            });
+        }
+
+        //<!-- add package to database  -->
+        function putPackage(){
+            var data = '{ "PackageId": 0' +
+                ', "PkgName": "' +$("#PkgName").val()+
+                '", "PkgStartDate": "' +$("#PkgStartDate").val()+' 00:00:00.0'+
+                '", "PkgEndDate": "' +$("#PkgEndDate").val()+' 00:00:00.0'+
+                '", "PkgDesc": "' +$("#PkgDesc").val()+
+                '", "PkgBasePrice": ' +$("#PkgBasePrice").val()+
+                ', "PkgAgencyCommission": ' +$("#PkgAgencyCommission").val()+' }';
+            $.ajax({
+                url:"http://localhost:8080/TravelExpertsREST-1.0-SNAPSHOT/api/package/putpackage",
+                method:"PUT",
+                data:data,
+                contentType:"application/json",
+                cache:false,
+                dataType:"json",
+                success: function (result){
+                    $("#msg").html(result.message);
+                    openMsg();
+                    disableAll();
+                }
+            });
+        }
+
+        //<!-- delete package from database -->
+        function deletePackage(){
+            $.ajax({
+                url:"http://localhost:8080/TravelExpertsREST-1.0-SNAPSHOT/api/package/deletepackage/"+$("#PackageId").val(),
+                method:"DELETE",
+                cache:false,
+                dataType:"json",
+                success: function (result){
+                    $("#msg").html(result.message);
+                    openMsg();
+                    disableAll();
+                }
+            });
+        }
+
+    </script>
+</head>
+<body>
+    <nav id="navigation">
+        <ul id="link-container" class="cont-fix">
+            <li>
+                <h3 id="company-name" class="name-fix">Travel Experts</h3>
+            </li>
+            <li class="push">
+                <button id="btn-logout" class="nav-btn">Sign Out</button>
+            </li>
+        </ul>
+    </nav>
+
+    <div id="box">
+        <select id="packageselect" onchange="getPackage(this.value)">
+            <option value="none">Select a package</option>
+        </select>
+        <form id="myform">
+            <label for="PackageId">Package Id:<input id="PackageId" type="number" disabled="disabled" /></label><br />
+            <label for="PkgName">Package Name:<input id="PkgName" type="text" /></label><br />
+            <label for="PkgStartDate">Package Start Date:<input id="PkgStartDate" type="text" placeholder="yyyy-mm-dd" /></label><br />
+            <label for="PkgEndDate">Package End Date:<input id="PkgEndDate" type="text" placeholder="yyyy-mm-dd"/></label><br />
+            <label for="PkgDesc">Package Description:<input id="PkgDesc" type="text" /></label><br />
+            <label for="PkgBasePrice">Package Base Price:<input id="PkgBasePrice" class="dollars" type="number" /></label><br />
+            <label for="PkgAgencyCommission">Package Agency Commission:<input id="PkgAgencyCommission" class="dollars" type="number" step="0.01"/></label><br />
+        </form>
+        <div id="btn-group">
+            <button id="btnClear" type="button" onclick="reSet()" >Clear</button>
+            <button id="btnAdd" type="button" onclick="putPackage()">Add</button>
+            <button id="btnUpdate" type="button" onclick="postPackage()" disabled="disabled">Update</button>
+            <button id="btnDelete" type="button" onclick="deletePackage()" disabled="disabled">Delete</button>
+        </div>
+        <div class="msg-pop" id="myMsg" style="display: none">
+            <h3 id="msg"></h3>
+            <div id="btn-ok">
+                <button type="button" onclick="closeMsg()">OK</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function (){
+            $.get(
+                "http://localhost:8080/TravelExpertsREST-1.0-SNAPSHOT/api/package/getpackages",
+                function (data){
+                    for (let i = 0; i < data.length; i++) {
+                        $("#packageselect").append("<option value='"+data[i].PackageId
+                            +"'>"+data[i].PkgName+"</option>");
+                    }
+                },
+                "json"
+            );
+        });
+    </script>
+</body>
+</html>

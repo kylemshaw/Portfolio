@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minWidth="570.0" prefHeight="550.0" prefWidth="686.0" stylesheets="@Snow_style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.te.dbmanager.gui.BookingDetailController">
+   <children>
+      <HBox fx:id="hbTitle" alignment="CENTER_RIGHT" maxHeight="-Infinity" minHeight="-Infinity" minWidth="686.0" prefHeight="35.0" prefWidth="686.0" style="-fx-background-color: #080a2a;">
+         <children>
+            <ImageView fitHeight="27.0" fitWidth="37.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/logoPartial.png" />
+               </image>
+               <HBox.margin>
+                  <Insets left="5.0" top="2.0" />
+               </HBox.margin>
+            </ImageView>
+            <TextField fx:id="tfTitle" editable="false" focusTraversable="false" mouseTransparent="true" prefWidth="1010.0" style="-fx-background-color: transparent; -fx-text-fill: #939393;" text="Travel Experts DB Explorer">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </TextField>
+            <Circle fx:id="btnMinimize" fill="#f2c36d" radius="9.0" stroke="BLACK" strokeType="INSIDE">
+               <HBox.margin>
+                  <Insets right="8.0" />
+               </HBox.margin>
+               <effect>
+                  <InnerShadow />
+               </effect>
+            </Circle>
+            <Circle fx:id="btnClose" fill="#cd2b1c" radius="9.0" stroke="BLACK" strokeType="INSIDE">
+               <HBox.margin>
+                  <Insets right="10.0" />
+               </HBox.margin>
+               <effect>
+                  <InnerShadow />
+               </effect>
+            </Circle>
+         </children>
+      </HBox>
+      <VBox layoutX="2.0" layoutY="47.0" minWidth="676.0" prefHeight="470.0" prefWidth="676.0">
+         <children>
+            <HBox alignment="CENTER" maxWidth="682.0" minWidth="682.0" prefHeight="368.0" prefWidth="682.0">
+               <children>
+                  <VBox prefHeight="368.0" prefWidth="240.0" stylesheets="@Snow_style.css">
+                     <children>
+                        <Label fx:id="lbBookingId" text="Booking Id:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="12.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbBookingDate" text="Booking Date:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbBookingNo" text="Booking No:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbTravelerCount" text="Traveler Count:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbCustomerId" text="Customer:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbTripTypeId" text="Trip Type:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbPackageId" text="Package:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbFeeId" text="Fee:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                        <Label fx:id="lbAgentId" text="Agent:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets top="20.0" />
+                           </VBox.margin>
+                        </Label>
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="368.0" prefWidth="315.0">
+                     <children>
+                        <Label fx:id="tfBookingId">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="11.0" />
+                           </VBox.margin>
+                        </Label>
+                        <DatePicker fx:id="dpBookingDate" prefHeight="30.0" prefWidth="370.0">
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="8.0" />
+                           </VBox.margin>
+                        </DatePicker>
+                        <TextField fx:id="tfBookingNo" prefHeight="30.0" prefWidth="347.0">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </TextField>
+                        <TextField fx:id="tfTravelerCount" prefHeight="30.0" prefWidth="320.0">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </TextField>
+                        <ComboBox fx:id="cbCustomerId" prefHeight="30.0" prefWidth="370.0">
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </ComboBox>
+                        <ComboBox fx:id="cbTripTypeId" prefHeight="30.0" prefWidth="370.0">
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </ComboBox>
+                        <ComboBox fx:id="cbPackageId" prefHeight="30.0" prefWidth="370.0">
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </ComboBox>
+                        <ComboBox fx:id="cbFeeId" prefHeight="30.0" prefWidth="370.0">
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </ComboBox>
+                        <ComboBox fx:id="cbAgentId" prefHeight="30.0" prefWidth="370.0">
+                           <VBox.margin>
+                              <Insets bottom="5.0" top="5.0" />
+                           </VBox.margin>
+                        </ComboBox>
+                     </children>
+                  </VBox>
+               </children>
+               <VBox.margin>
+                  <Insets top="20.0" />
+               </VBox.margin>
+            </HBox>
+            <HBox alignment="BOTTOM_LEFT" minWidth="680.0" prefHeight="82.0" prefWidth="680.0">
+               <children>
+                  <Button fx:id="btnSave" layoutX="250.0" minWidth="68.0" mnemonicParsing="false" onMouseClicked="#onClickBookingSave" prefHeight="32.0" prefWidth="65.0" text="Save">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="230.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="btnCancel" layoutX="408.0" minWidth="68.0" mnemonicParsing="false" onMouseClicked="#onClickCancel" prefHeight="32.0" prefWidth="65.0" text="Cancel">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="90.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <Label fx:id="lbMessage" layoutX="2.0" layoutY="430.0" prefHeight="116.0" prefWidth="235.0" textFill="#831720" />
+   </children>
+   <effect>
+      <DropShadow />
+   </effect>
+</AnchorPane>

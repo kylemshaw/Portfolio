@@ -1,0 +1,161 @@
+/*-------------------------------------------------------------------------------------------
+/*    PROJ 207 Threaded Project #3 Group: 5
+/*    Class: OOSD May 21
+/*    Author(s): Kathy Deng and Adolphus Cox
+/*-------------------------------------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+body{
+    background-image: linear-gradient(305deg, rgba(200, 200, 240, 0.65), rgba(0, 220, 240, 0.70)),
+    url(pkg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    align-content: center;
+    vertical-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: Quicksand, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-attachment: fixed;
+
+}
+
+li {
+    display: block;
+}
+
+#navigation {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.9), rgba(10, 10, 10, 0.9));
+    box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.6);
+    width: 100%;
+
+}
+
+#link-container {
+    display: flex;
+}
+
+.link {
+    font-size: 1.5em;
+    font-family: arial;
+    padding: 30px 10px 30px 10px;
+    width: 120px;
+    transition: 0.5s;
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+.cont-fix {
+    margin: 0px;
+    padding-left: 0px;
+}
+
+#company-name {
+    font-size: 2.3em;
+    color: white;
+    cursor: default;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.push {
+    margin-left: auto;
+}
+
+.nav-btn {
+    margin: 20px;
+}
+
+
+.dollars::before{
+    content: "$";
+}
+
+#box{
+    vertical-align: middle;
+    padding: 40px;
+    margin: auto;
+    margin-top: 60px;
+    width: 625px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    box-shadow: 8px 8px 20px 4px rgba(0, 0, 0, 0.25);
+}
+
+label {
+    vertical-align: center;
+}
+
+input {
+    width: 300px;
+    padding: 8px;
+    float: right;
+    font-size: 16px;
+    border-radius: 6px;
+    border-style: solid;
+}
+
+select {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 6px;
+    border-style: solid;
+}
+
+#myform {
+    display: grid;
+    align-items: center;
+}
+
+#packageselect {
+    font-size: 18px;
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 40px;
+}
+
+button {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+    border-radius: 9px;
+    border-style: solid;
+    border-width: 2px;
+    min-width: 75px;
+    font-family: Quicksand;
+}
+
+#btn-logout {
+    color: rgba(0, 0, 0, 0.8);
+    background: white;
+    border-color: black;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+#btn-group {
+    margin-top: 20px;
+}
+
+#myMsg {
+    font-size: 18px;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+#msg, #btn-ok {
+    text-align: center;
+}

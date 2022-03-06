@@ -118,3 +118,18 @@ C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module
 C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
 C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
 C:\Users\Kyle\Documents\_SAIT\PROJ-207-ThreadedProject\Threaded Project - Module 2\Hand-In\PROJ207_Term2-Group4\TravelExperts_W5_WebApp\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.deps.json
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\bin\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.BLL.pdb
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.dll
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\bin\Debug\net5.0\TravelExperts.Data.pdb
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.csproj.CopyComplete
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\ref\TravelExperts.BLL.dll
+C:\Users\Kyle\source\repos\_GitHub Portfolio\Portfolio\4_ASP.NET Core MVC Web App (In Development)\TravelExperts.BLL\obj\Debug\net5.0\TravelExperts.BLL.pdb

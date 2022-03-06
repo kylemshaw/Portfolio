@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minWidth="711.0" prefHeight="414.0" prefWidth="711.0" stylesheets="@Snow_style.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.te.dbmanager.gui.CustomerDetailController">
+   <children>
+      <HBox fx:id="hbTitle" alignment="CENTER_RIGHT" maxHeight="-Infinity" minHeight="-Infinity" minWidth="711.0" prefHeight="35.0" prefWidth="711.0" style="-fx-background-color: #080a2a;">
+         <children>
+            <ImageView fitHeight="27.0" fitWidth="37.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/logoPartial.png" />
+               </image>
+               <HBox.margin>
+                  <Insets left="5.0" top="2.0" />
+               </HBox.margin>
+            </ImageView>
+            <TextField fx:id="tfTitle" editable="false" focusTraversable="false" mouseTransparent="true" prefWidth="1010.0" style="-fx-background-color: transparent; -fx-text-fill: #939393;" text="Travel Experts DB Explorer">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </TextField>
+            <Circle fx:id="btnMinimize" fill="#f2c36d" radius="9.0" stroke="BLACK" strokeType="INSIDE">
+               <HBox.margin>
+                  <Insets right="8.0" />
+               </HBox.margin>
+               <effect>
+                  <InnerShadow />
+               </effect>
+            </Circle>
+            <Circle fx:id="btnClose" fill="#cd2b1c" radius="9.0" stroke="BLACK" strokeType="INSIDE">
+               <HBox.margin>
+                  <Insets right="10.0" />
+               </HBox.margin>
+               <effect>
+                  <InnerShadow />
+               </effect>
+            </Circle>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" layoutX="52.0" layoutY="64.0">
+         <children>
+            <VBox prefHeight="246.0" prefWidth="122.0">
+               <children>
+                  <Label text="First Name:">
+                     <VBox.margin>
+                        <Insets top="11.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Last Name:">
+                     <VBox.margin>
+                        <Insets top="19.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Home Phone: ">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Business Phone:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Email:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Agent:">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+            </VBox>
+            <VBox prefWidth="160.0">
+               <children>
+                  <TextField fx:id="tfCustFirstName">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="tfCustLastName">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="tfCustHomePhone">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="tfCustBusPhone">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="tfCustEmail">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <ComboBox fx:id="cboAgents" prefWidth="150.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </ComboBox>
+               </children>
+            </VBox>
+            <VBox prefWidth="126.0">
+               <children>
+                  <Label text="Address:">
+                     <VBox.margin>
+                        <Insets left="20.0" top="11.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="City:">
+                     <VBox.margin>
+                        <Insets left="20.0" top="19.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Province">
+                     <VBox.margin>
+                        <Insets left="20.0" top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Postal Code:">
+                     <VBox.margin>
+                        <Insets left="20.0" top="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label text="Country:">
+                     <VBox.margin>
+                        <Insets left="20.0" top="20.0" />
+                     </VBox.margin>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </VBox>
+            <VBox prefWidth="160.0">
+               <children>
+                  <TextField fx:id="tfCustAddress">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="tfCustCity">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <ComboBox fx:id="cboCustProvince" prefWidth="150.0">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </ComboBox>
+                  <TextField fx:id="tfCustPostal">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+                  <TextField fx:id="tfCustCountry">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </TextField>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <Button fx:id="btnSave" defaultButton="true" layoutX="243.0" layoutY="350.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="68.0" text="Save">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <Button fx:id="btnCancel" cancelButton="true" layoutX="400.0" layoutY="350.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="68.0" text="Cancel">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
